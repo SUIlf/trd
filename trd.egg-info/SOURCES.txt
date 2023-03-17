@@ -1,0 +1,12 @@
+README.md
+setup.py
+trd/__init__.py
+trd/base.py
+trd/decompositions.py
+trd/functions.py
+trd/ops.py
+trd.egg-info/PKG-INFO
+trd.egg-info/SOURCES.txt
+trd.egg-info/dependency_links.txt
+trd.egg-info/requires.txt
+trd.egg-info/top_level.txt

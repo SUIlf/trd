@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: trd
+Version: 0.1.1
+Summary: tensor ring decomposition toolbox
+Home-page: https://github.com/SUIlf/TRD
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: BSD 3-Clause License
+Description: tensor ring decomposition toolbox
+Keywords: pip,tensor,tensor ring decomposition,,
+Platform: any
